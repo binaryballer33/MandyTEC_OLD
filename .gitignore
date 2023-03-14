@@ -21,3 +21,15 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# MAC OS X
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IntelliJ
+.idea
+*.iml
+
+

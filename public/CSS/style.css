@@ -1,0 +1,64 @@
+.header {
+    background-color: #f1f1f1;
+    padding: 100px;
+    text-align: center;
+    min-height:250px;
+}
+.footer {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+    min-height:250px;
+
+}
+
+body{
+    background-color: #F9F9F9;
+}
+.content{
+    min-height: 750px;
+}
+
+.main-content{
+    min-height: 750px;
+}
+
+.sidebar{
+    background-color: aliceblue;
+    min-height: 750px;
+    overflow: scroll;
+}
+
+h1, h2{
+    text-shadow: 2px 2px aliceblue;
+    text-align: center;
+    color:#0D324D;
+}
+
+p{
+  text-align: center;
+}
+
+.card-body{
+    background-color: #f1f1f1;
+}
+
+.navbar{
+    background-color: #f1f1f1;
+}
+
+button.btn, .navbar-brand, a.btn {
+    background-color: lightblue;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: aliceblue;
+}
+
+a.btn:hover {
+    background-color: #0d6efd;
+}
